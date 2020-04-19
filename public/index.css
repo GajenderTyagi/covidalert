@@ -56,10 +56,9 @@ footer {
     border: solid 2px #ccc;
     margin: 0 auto;
     overflow:hidden;
-    position: fixed;
-    bottom: 3%;
-    left: 40%;
-    background:#999;
+    position: relative;
+    bottom: 0%;
+    left: 0%;
 }
 
 body {
